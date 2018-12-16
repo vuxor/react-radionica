@@ -1,0 +1,9 @@
+$color: blue;
+
+.App {
+    color: $color;
+    transform: rotateY(10deg);
+    .text {
+        color: red;
+    }
+}
